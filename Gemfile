@@ -45,5 +45,9 @@ group :development, :test do
   gem 'factory_girl_rails'
   gem 'capybara'
   gem 'database_cleaner'
+<<<<<<< HEAD
   gem 'bundler'
+=======
+  gem 'bundler', '~> 1.16','>= 1.16.1'
+>>>>>>> be3ef1ba083d73d177e65dfa9110f640ef41865a
 end
